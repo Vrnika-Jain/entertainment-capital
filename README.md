@@ -5,7 +5,7 @@ Welcome to Entertainment Capital! This repository hosts various interactive game
 ## Overview
 Sudoku Solver is a program that solves Sudoku puzzles using backtracking. It allows users to input a Sudoku grid and generates a solution if one exists.
 ## Features
-- ** Solver Algorithm: ** Utilizes a backtracking algorithm to find the solution.
+- **Solver Algorithm:** Utilizes a backtracking algorithm to find the solution.
 - ** Input Handling: ** Accepts user input for Sudoku grids.
 - ** Output: ** Displays the solved Sudoku grid.
 
